@@ -1,0 +1,15 @@
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\bin\Debug\net6.0\Example008_InroMethod.exe
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\bin\Debug\net6.0\Example008_InroMethod.deps.json
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\bin\Debug\net6.0\Example008_InroMethod.runtimeconfig.json
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\bin\Debug\net6.0\Example008_InroMethod.dll
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\bin\Debug\net6.0\Example008_InroMethod.pdb
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\obj\Debug\net6.0\Example008_InroMethod.csproj.AssemblyReference.cache
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\obj\Debug\net6.0\Example008_InroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\obj\Debug\net6.0\Example008_InroMethod.AssemblyInfoInputs.cache
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\obj\Debug\net6.0\Example008_InroMethod.AssemblyInfo.cs
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\obj\Debug\net6.0\Example008_InroMethod.csproj.CoreCompileInputs.cache
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\obj\Debug\net6.0\Example008_InroMethod.dll
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\obj\Debug\net6.0\refint\Example008_InroMethod.dll
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\obj\Debug\net6.0\Example008_InroMethod.pdb
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\obj\Debug\net6.0\Example008_InroMethod.genruntimeconfig.cache
+C:\Users\Эд\Desktop\Geek\Знакомство с языком программирования С#\Lesson2\Example008_InroMethod\obj\Debug\net6.0\ref\Example008_InroMethod.dll
